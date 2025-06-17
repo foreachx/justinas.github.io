@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Justinas Vijeikis ITnt-24"
 theme = "ananke"
 relativeURLs = false
+publishDir = "docs"
 canonifyURLs = true
 [menu]
   [[menu.main]]
