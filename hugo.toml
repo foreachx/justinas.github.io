@@ -1,0 +1,4 @@
+baseURL = "https://foreachx.github.io/"
+languageCode = "en-us"
+title = "Mano Hugo puslapis"
+theme = "ananke"
